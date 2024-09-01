@@ -1,0 +1,30 @@
+body {
+  font-family: Papyrus, "Times New Roman", sans-serif;
+  text-align: center;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ol {
+  list-style-position: inside;
+}
+
+a {
+  text-decoration: none;
+}
+
+p.additional-ingredients {
+  color: cadetblue;
+}
+
+p.main-ingredients {
+  color: rebeccapurple;
+}
